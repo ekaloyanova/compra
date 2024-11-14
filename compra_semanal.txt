@@ -1,3 +1,4 @@
-- Huevos
+- Verdura
 - Leche
 - Manzanas
+- Galletas
