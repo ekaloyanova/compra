@@ -1,5 +1,6 @@
-- Huevos
+- Verdura
 - Cosas
 - Leche
 - Manzanas
 - Peras
+- Galletas
