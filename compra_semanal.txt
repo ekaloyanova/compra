@@ -5,3 +5,4 @@
 - Manzanas
 - Peras
 - Galletas
+- Comida
