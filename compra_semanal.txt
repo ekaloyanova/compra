@@ -5,5 +5,3 @@
 - Manzanas
 - Aguacates
 - Galletas
-- Comida
-- Agua
