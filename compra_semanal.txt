@@ -1,5 +1,7 @@
+- Verdura
 - Carne
 - Cosas
 - Leche
 - Manzanas
 - Peras
+- Galletas
